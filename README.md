@@ -23,7 +23,9 @@ This is an attempt to create a concept shell using 3D printing and laser cutting
 
 <img width="2222" height="1372" alt="ScreenShot_2025-10-17_001526_147" src="https://github.com/user-attachments/assets/e7b33e42-5127-48b9-aee2-1fbc96fb8271" />
 
-![6957677a349eaf012e80bc6352df6b99](https://github.com/user-attachments/assets/56aded98-9196-4fdd-a15f-cbc04e0e7da5) ![Uploading 183324e761dcb4e9240bc25b3f7cd570.jpg…]()
+![弯折处断线图](https://github.com/user-attachments/assets/56aded98-9196-4fdd-a15f-cbc04e0e7da5) 
+![连接处图片](https://github.com/user-attachments/assets/1c7ea9e2-9dfe-45bd-a8b1-09942cb5de8b)
+
 
 
 
