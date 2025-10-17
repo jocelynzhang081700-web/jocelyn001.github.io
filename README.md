@@ -1,5 +1,5 @@
-# Manufacturing an "Eco-capsule"
-## About
+# Manufacturing an "Eco-capsule" 制造一个“生态智囊”
+## About 关于
 This is an attempt to create a concept shell using 3D printing and laser cutting in HTAM course.
 ## Design Concept 设计概念
   In 2045, artificial intelligence evolved into "environmental intelligence". And the Arduino box, which seemed rather rudimentary in 2025, has now evolved into an astonishing product: Eco-Capsule. 
@@ -19,7 +19,16 @@ This is an attempt to create a concept shell using 3D printing and laser cutting
   这个胶囊将成为我们生活环境中一个智慧的存在。
 ## 完整工作流程
 ### 激光切割制作部分
-在木板需要弯折处绘制密集而规律的切割线，使得木板可以弯折。通过穿插结构达到盒子底面和侧面能够稳固固定的效果。
+材料选用3mm厚度木板，用Adobe Illustrator绘制切割线，在木板需要弯折处平均分布有规律的断线（间距在1.5mm左右），使得木板可以弯折。设计穿插结构达到盒子底面和侧面能够稳固固定的效果。
+
+<img width="2222" height="1372" alt="ScreenShot_2025-10-17_001526_147" src="https://github.com/user-attachments/assets/e7b33e42-5127-48b9-aee2-1fbc96fb8271" />
+
+![6957677a349eaf012e80bc6352df6b99](https://github.com/user-attachments/assets/56aded98-9196-4fdd-a15f-cbc04e0e7da5)
+
+
+
+
+木板弯折部分可以跟随教程： https://www.xiaohongshu.com/discovery/item/67d980fb000000000603e88d?source=webshare&xhsshare=pc_web&xsec_token=ABpgH2o2D5XNq11hMo5kRL98Uif6uCw50IXxXVMM8jWAk=&xsec_source=pc_share
 为arduino板预留空间
 ### 3D打印制作部分
 运用Blender软件建立轮胎模型
