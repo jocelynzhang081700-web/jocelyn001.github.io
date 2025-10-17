@@ -19,25 +19,29 @@ This is an attempt to create a concept shell using 3D printing and laser cutting
   这个胶囊将成为我们生活环境中一个智慧的存在。
 ## 完整工作流程
 ### 激光切割制作部分
+
 材料选用3mm厚度木板，用Adobe Illustrator绘制切割线，在木板需要弯折处平均分布有规律的断线（间距在1.5mm左右），使得木板可以弯折。设计穿插结构达到盒子底面和侧面能够稳固固定的效果。
+
+两侧下方预留φ = 5 mm的孔，用于插入木棒。
 
 <img width="2222" height="1372" alt="ScreenShot_2025-10-17_001526_147" src="https://github.com/user-attachments/assets/e7b33e42-5127-48b9-aee2-1fbc96fb8271" />
 
 ![弯折处断线图](https://github.com/user-attachments/assets/56aded98-9196-4fdd-a15f-cbc04e0e7da5) 
+
 ![连接处图片](https://github.com/user-attachments/assets/1c7ea9e2-9dfe-45bd-a8b1-09942cb5de8b)
 
-
-
-
-
-
 木板弯折部分可以跟随教程： https://www.xiaohongshu.com/discovery/item/67d980fb000000000603e88d?source=webshare&xhsshare=pc_web&xsec_token=ABpgH2o2D5XNq11hMo5kRL98Uif6uCw50IXxXVMM8jWAk=&xsec_source=pc_share
+
 为arduino板预留空间
+
+![2e49939aa4efa1148da3a6538226a19f](https://github.com/user-attachments/assets/e1cbf0e8-2a05-4854-a6d2-315b059474f6)
+
 ### 3D打印制作部分
 运用Blender软件建立轮胎模型
-导入到Ultimaker Cure中进行调整后开始打印
-多次打印失败，寻找原因：外凸内凹的模型表面让模型打印难以开始，重新调整打印方向，成功打印轮子
-在木板上打φ = 5 mm的孔，让木棒能够穿插在盒体中
-将轮子固定在木棒上的方法：轮子两端固定铁丝
+<img width="2880" height="1478" alt="ScreenShot_2025-10-17_122530_860" src="https://github.com/user-attachments/assets/713eee77-03c4-4545-ba88-75646ce8c64a" />
+导入到Ultimaker Cura中进行调整后开始打印（注意打印方向）
+<img width="1920" height="1282" alt="ScreenShot_2025-10-17_122839_430" src="https://github.com/user-attachments/assets/c500540b-8afb-45e3-820d-51b4c11911f4" />
+用φ = 5 mm的木棒穿过盒体，将轮胎固定在盒上，将轮子固定在木棒上的方法：轮子两端固定铁丝。（注意给盒体和铁丝、轮子之间预留距离，不然轮子会因为摩擦难以滚动）
+![wheels](https://github.com/user-attachments/assets/809be857-c4d5-4003-bd5e-763f200e900d)
 
 ## 迭代、思考过程
