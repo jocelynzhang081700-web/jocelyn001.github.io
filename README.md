@@ -21,8 +21,8 @@ This is an attempt to create a concept shell using 3D printing and laser cutting
   
   这个胶囊将成为我们生活环境中一个智慧的存在。
   
-## 完整工作流程
-### 激光切割制作部分
+## Complete workflow 完整工作流程
+### Laser cutting fabrication section 激光切割制作部分
 
 The material used is a 3mm thick wooden board. The cutting lines were drawn using Adobe Illustrator. Regular broken lines (with an interval of about 1.5mm) were evenly distributed at the areas where the board needs to be bent, enabling the board to be bent. The design of the interlacing structure achieves the effect of securely fixing the bottom and sides of the box.
 
@@ -46,7 +46,7 @@ Inside the box, space is reserved for the Arduino board.
 
 ![2e49939aa4efa1148da3a6538226a19f](https://github.com/user-attachments/assets/e1cbf0e8-2a05-4854-a6d2-315b059474f6)
 
-### 3D打印制作部分
+### 3D printing for fabrication of parts 3D打印制作部分
 Create a tire model using the Blender software.
 
 运用Blender软件建立轮胎模型。
@@ -71,7 +71,7 @@ Done!
 
 <img width="2917" height="2799" alt="chengpin" src="https://github.com/user-attachments/assets/1294147d-391a-4f9d-8dfa-e8d0eae2558d" />
 
-## 思考
+## Thinking 思考
 
 In the laser cutting section, since the machine requires dxf format files to import the files, after Adobe Illustrator finishes drawing the graphics, there might be a situation where the vector graphics have not been released and the dxf graphics are problematic. Therefore, the graphics should be exploded in AI first.
 
